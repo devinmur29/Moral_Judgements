@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Wrong
+//  WWH_Curves_2
 //
-//  Created by Devin Murphy on 2/2/19.
+//  Created by Devin Murphy on 1/19/19.
 //  Copyright © 2019 Devin Murphy. All rights reserved.
 //
 
